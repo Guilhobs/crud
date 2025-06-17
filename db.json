@@ -1,0 +1,16 @@
+{
+  "tarefas": [
+    {
+      "id": 1,
+      "titulo": "Estudar React Native",
+      "descricao": "Fazer os exercicios do curso de React Native",
+      "concluida": false
+    },
+    {
+      "id": 2,
+      "titulo": "Fazer compras",
+      "descricao": "Comprar frutas e verduras no supermercado",
+      "concluida": false
+    }
+  ]
+} 
